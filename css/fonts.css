@@ -1,0 +1,44 @@
+@import url("http://hello.myfonts.net/count/3029b8");
+@import url("academy-font.css");
+
+@font-face {font-family: 'TradeGothicLT'; src: url('../fonts/3029B8_0_0.eot');src: url('../fonts/3029B8_0_0d41d.eot?#iefix') format('embedded-opentype'),url('../fonts/3029B8_0_0.html') format('woff2'),url('../fonts/3029B8_0_0.woff') format('woff'),url('../fonts/3029B8_0_0.ttf') format('truetype');}
+ 
+/*  
+@font-face {font-family: 'TradeGothicLT-Oblique';src: url('../fonts/3029B8_1_0.eot');src: url('../fonts/3029B8_1_0.eot?#iefix') format('embedded-opentype'),url('../fonts/3029B8_1_0.woff2') format('woff2'),url('../fonts/3029B8_1_0.woff') format('woff'),url('../fonts/3029B8_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'TradeGothicLT-BoldTwo';src: url('../fonts/3029B8_2_0.eot');src: url('../fonts/3029B8_2_0.eot?#iefix') format('embedded-opentype'),url('../fonts/3029B8_2_0.woff2') format('woff2'),url('../fonts/3029B8_2_0.woff') format('woff'),url('../fonts/3029B8_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'TradeGothicLT-BoldTwoOblique';src: url('../fonts/3029B8_3_0.eot');src: url('../fonts/3029B8_3_0.eot?#iefix') format('embedded-opentype'),url('../fonts/3029B8_3_0.woff2') format('woff2'),url('../fonts/3029B8_3_0.woff') format('woff'),url('../fonts/3029B8_3_0.ttf') format('truetype');}
+ */ 
+  
+@font-face {font-family: 'TradeGothicLT-CondEighteen'; src: url('../fonts/3029B8_4_0.eot');src: url('../fonts/3029B8_4_0d41d.eot?#iefix') format('embedded-opentype'),url('../fonts/3029B8_4_0.html') format('woff2'),url('../fonts/3029B8_4_0.woff') format('woff'),url('../fonts/3029B8_4_0.ttf') format('truetype');}
+
+  
+@font-face {font-family: 'TradeGothicLT-BoldCondTwenty';src: url('../fonts/3029B8_5_0.eot');src: url('../fonts/3029B8_5_0d41d.eot?#iefix') format('embedded-opentype'),url('../fonts/3029B8_5_0.html') format('woff2'),url('../fonts/3029B8_5_0.woff') format('woff'),url('../fonts/3029B8_5_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'TradeGothicLTCom-Cn18Obl';src: url('../fonts/3029B8_6_0.eot');src: url('../fonts/3029B8_6_0d41d.eot?#iefix') format('embedded-opentype'),url('../fonts/3029B8_6_0.html') format('woff2'),url('../fonts/3029B8_6_0.woff') format('woff'),url('../fonts/3029B8_6_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'TradeGothicLTCom-BdCn20Obl';src: url('../fonts/3029B8_7_0.eot');src: url('../fonts/3029B8_7_0d41d.eot?#iefix') format('embedded-opentype'),url('../fonts/3029B8_7_0.html') format('woff2'),url('../fonts/3029B8_7_0.woff') format('woff'),url('../fonts/3029B8_7_0.ttf') format('truetype');}
+ 
+/* 
+@font-face {font-family: 'TradeGothicLT-Light';src: url('../fonts/3029B8_8_0.eot');src: url('../fonts/3029B8_8_0.eot?#iefix') format('embedded-opentype'),url('../fonts/3029B8_8_0.woff2') format('woff2'),url('../fonts/3029B8_8_0.woff') format('woff'),url('../fonts/3029B8_8_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'TradeGothicLT-LightOblique';src: url('../fonts/3029B8_9_0.eot');src: url('../fonts/3029B8_9_0.eot?#iefix') format('embedded-opentype'),url('../fonts/3029B8_9_0.woff2') format('woff2'),url('../fonts/3029B8_9_0.woff') format('woff'),url('../fonts/3029B8_9_0.ttf') format('truetype');}
+*/
+  
+@font-face {font-family: 'TradeGothicLT-Bold';src: url('../fonts/3029B8_A_0.eot');src: url('../fonts/3029B8_A_0d41d.eot?#iefix') format('embedded-opentype'),url('../fonts/3029B8_A_0.html') format('woff2'),url('../fonts/3029B8_A_0.woff') format('woff'),url('../fonts/3029B8_A_0.ttf') format('truetype');}
+ 
+/*  
+@font-face {font-family: 'TradeGothicLTStd-BoldObl';src: url('../fonts/3029B8_B_0.eot');src: url('../fonts/3029B8_B_0.eot?#iefix') format('embedded-opentype'),url('../fonts/3029B8_B_0.woff2') format('woff2'),url('../fonts/3029B8_B_0.woff') format('woff'),url('../fonts/3029B8_B_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'TradeGothicLTStd-Extended';src: url('../fonts/3029B8_C_0.eot');src: url('../fonts/3029B8_C_0.eot?#iefix') format('embedded-opentype'),url('../fonts/3029B8_C_0.woff2') format('woff2'),url('../fonts/3029B8_C_0.woff') format('woff'),url('../fonts/3029B8_C_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'TradeGothicLTStd-BoldExt';src: url('../fonts/3029B8_D_0.eot');src: url('../fonts/3029B8_D_0.eot?#iefix') format('embedded-opentype'),url('../fonts/3029B8_D_0.woff2') format('woff2'),url('../fonts/3029B8_D_0.woff') format('woff'),url('../fonts/3029B8_D_0.ttf') format('truetype');}
+*/
